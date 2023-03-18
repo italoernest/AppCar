@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppCar</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="btn_login">Entrar</string>
+    <string name="registerNow">Click para Cadastrar</string>
+    <string name="register">Cadastrar</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="loginrNow">Click para Login</string>
+    <string name="logout">Logout</string>
+</resources>

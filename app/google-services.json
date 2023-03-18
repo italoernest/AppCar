@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151164272338",
+    "project_id": "appcar-e2317",
+    "storage_bucket": "appcar-e2317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151164272338:android:eca5858c0830b5a817770b",
+        "android_client_info": {
+          "package_name": "br.com.bpstelecom.appcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151164272338-b7unh52495ajdbd2fflqiujoolioljdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcjTPMo46wIvdaEXoudro02GXWvud-JFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151164272338-b7unh52495ajdbd2fflqiujoolioljdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
