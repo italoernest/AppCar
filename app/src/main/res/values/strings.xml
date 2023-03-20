@@ -10,4 +10,6 @@
     <string name="loginrNow">Click para Login</string>
     <string name="logout">Logout</string>
     <string name="saving">Salvando....</string>
+    <string name="upload">Upload dados</string>
+    <string name="save">Salvar</string>
 </resources>
