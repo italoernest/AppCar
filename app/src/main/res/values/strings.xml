@@ -9,7 +9,10 @@
     <string name="btn_cadastrar">Cadastrar</string>
     <string name="loginrNow">Click para Login</string>
     <string name="logout">Logout</string>
-    <string name="saving">Salvando....</string>
+    <string name="loading">Carregando....</string>
     <string name="upload">Upload dados</string>
     <string name="save">Salvar</string>
+    <string name="title">Titulo</string>
+    <string name="description">Descrição</string>
+    <string name="lang">Kilometragem</string>
 </resources>
